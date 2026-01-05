@@ -1,5 +1,7 @@
 <div align="center">
-<img width="1200" height="600" alt="NicePic Banner" src="https://raw.githubusercontent.com/lessnoise/nicepic/main/assets/banner.png" />
+<a href="https://lessnoise.github.io/nicepic/">
+  <img width="1200" height="600" alt="NicePic Banner - Screenshot beautification tool" src="https://raw.githubusercontent.com/lessnoise/nicepic/main/assets/banner.png" onerror="this.src='https://api.screenshotone.com/take?access_key=demo&url=https://lessnoise.github.io/nicepic/&viewport_width=1200&viewport_height=600&format=png&delay=3000'" />
+</a>
 </div>
 
 <div align="center">
