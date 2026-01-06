@@ -25,7 +25,7 @@ A professional screenshot beautification tool that enhances your screenshots wit
 
 ### 🚀 Live Demo
 
-**Live Demo:** https://lessnoise.github.io/nicepic/
+**Live Demo:** https://lessnoise365.github.io/nicepic/
 
 ### 💡 About This Project
 
@@ -73,7 +73,7 @@ This project is licensed under the MIT License.
 
 ### 🚀 在线体验
 
-**体验地址：** https://lessnoise.github.io/nicepic/
+**体验地址：** https://lessnoise365.github.io/nicepic/
 
 ### 💡 关于本项目
 
